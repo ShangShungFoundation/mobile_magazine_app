@@ -43,19 +43,11 @@ Medium
    - Git client: Shell, [Git Desktop](https://desktop.github.com/)
 
 ## Resources:
-### Tibetan OCR:
-* http://digitaltibetan.org/index.php/Tibetan_OCR 
-   - training data https://github.com/tesseract-ocr/tessdata/blob/master/bod.traineddata
-* http://www.namsel.com/ 
-   - source: https://github.com/zmr/namsel
-   - study: http://www.academia.edu/27708311/Namsel_An_optical_character_recognition_system_for_Tibetan_text
-* https://github.com/writepython/tibetan-ocr
-* http://www.panl10n.net/english/Outputs%20Phase%202/CCs/China/Papers/TU/TibetanOCR.pdf
-* http://ocr.tdil-dc.gov.in/(S(ynqukylyplggwlk2z1sq4zsk))/default.aspx
-
-### React Native
-* https://github.com/jonathanpalma/react-native-tesseract-ocr
-
+### React Native RSS reader
+* https://github.com/christopherdro/react-native-rss-reader
+* https://github.com/rmotr/react-native-rss-reader
+* https://github.com/sarantist/react-native-nasa-rss-feed
+* https://www.npmjs.com/package/react-native-rss-to-json
 
 ## Acknowledgements
 We are grateful to following persons for their ideas and collaboration:
