@@ -9,8 +9,8 @@
 ## Project Coordinator: 
 
 ## Description
-Mobile Magazine App can serve as mobile iterface for webmagazie like the Mirror.
-It uses RSS feed to digest content.
+Mobile Magazine App can serve as mobile interface for webmagazie like [The Mirror](http://melong.com/).
+It should use RSS feed to digest the content.
 
 ## Purpose
 * Provides a mobile version of web magazine
