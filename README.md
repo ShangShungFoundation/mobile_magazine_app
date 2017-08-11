@@ -1,0 +1,1 @@
+# mobile_magazine_app
